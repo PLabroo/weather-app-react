@@ -4,9 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Brief
 This project helps me to keep a track of current weather as well as the forecast of coming 5 days. I have used 2 API's which are (https://api.weatherapi.com/v1/current.json?key=02d8af84f1ac46108c4134540233103&q=London&aqi=yes) for current weather and (
-https://api.weatherapi.com/v1/forecast.json?key=02d8af84f1ac46108c4134540233103&q=London&days=5&aqi=yes) for forecast weather. The data coming from these API's have been modified as per my use and rendered in the frontend. You can fetch weather data of any city or country(National Capital).I have also used luxon library for formatting of date and time into more readable form.
+https://api.weatherapi.com/v1/forecast.json?key=02d8af84f1ac46108c4134540233103&q=London&days=5&aqi=yes) for forecast weather.
+
+The data coming from these API's have been modified as per my use and rendered in the frontend.You can fetch weather data of any city or country(National Capital).
+
+I have also used luxon library for formatting of date and time into more readable form.
 
 To run project just clone the project and run npm start.
+
 The project is also live at https://plabroo.github.io/weather-app-react/
 
 ## Available Scripts
